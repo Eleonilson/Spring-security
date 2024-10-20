@@ -1,5 +1,4 @@
-package dio.dio_spring_security;
-import org.springframework.security.access.prepost.PreAuthorize;
+package dio.dio_spring_security.controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
